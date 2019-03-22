@@ -1,1 +1,3 @@
 Prvi folder u Git-u preko konzole
+
+----------------------------
