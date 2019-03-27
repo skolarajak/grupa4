@@ -35,3 +35,5 @@ Vezba se vezba.... svidja nam se git bas bas
 6
 
 >>>>>>> 91b6736489391d79cbfad543ba5ed9bc7af452ed
+
+-----izmena preko github----
