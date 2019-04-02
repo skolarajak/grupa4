@@ -1,0 +1,6 @@
+this is foo text
+second line of same doc
+
+4
+5
+end
