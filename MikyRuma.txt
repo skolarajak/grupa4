@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Neka nova promena
+=======
+Test kurs Test
+
+----------------------
+mogu cak i insta da reklamiram  nemam_shishke_ :D
+vezba, vezba
+
+>>>>>>> ed4a51deccf5893aba8db47c272aee9727cb2b92
