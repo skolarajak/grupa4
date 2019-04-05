@@ -1,10 +1,11 @@
 Anicic Nikola, sadrzaj casa 12
 -----------------
 izmena
-<<<<<<< HEAD
+sadasd<<<<<<< HEAD
 __________Novi edit________
 =======
 
 
 Uljez :)
 >>>>>>> 0cae2d388092adf518e61d66c3bb11ef9744c854
+uljez se uvuk'o u cvece :D
