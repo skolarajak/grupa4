@@ -41,3 +41,5 @@ Vezba se vezba.... svidja nam se git bas bas
 
 --------izmena preko Bash-a--------------------
 
+malo vezbamo ;-))
+-----------------------------------------------

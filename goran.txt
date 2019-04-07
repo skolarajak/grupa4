@@ -1,5 +1,14 @@
-GRUPA4
 
-
-
-Veceras u 20h...cujemo se 
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   goran.txt
+#
+# Untracked files:
+#	grupa4/
+#	vezbanje123.txt
+#ovo je odlicna stvar
