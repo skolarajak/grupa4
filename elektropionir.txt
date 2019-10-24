@@ -1,3 +1,5 @@
+Mica vezba git preko konzole
+
 Prvi folder u Git-u preko konzole
 
 ----------------------------
